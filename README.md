@@ -1,0 +1,3 @@
+# Learning-Go...-Finally-ENDSARS
+Today 12/10/2020, I started learning the Go programming language...
+Well... That's all I can share right now.
