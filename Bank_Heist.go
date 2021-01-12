@@ -47,7 +47,7 @@ if isHeistOn {
     default:
     fmt.Println("Una mattina mi sono alzato O bella ciao, bella ciao, bella ciao, ciao, ciao...") 
 }
-if isHeistOn == true {
+  if isHeistOn == true {
   amtStolen := 10000 + rand.Intn(1000000)
   fmt.Println("We got away with", amtStolen)
 }
